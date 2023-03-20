@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
+
+table, tr, td {
+    text-align: center;
+    
+}
+
+table {
+    width: 80%;
+    padding-top: 100%;
+}
+
+#conteudo {
+    padding: 100px;
+    text-align: center;
+}
+
